@@ -1,2 +1,2 @@
 [submodule "scheduled_tweets"]
-	url = git@github.com:nnhutan/scheduled_tweets.git
+	url = https://github.com/nnhutan/scheduled_tweets.git
